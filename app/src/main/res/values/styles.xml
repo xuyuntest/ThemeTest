@@ -1,0 +1,14 @@
+<resources>
+
+
+    <style name="Mystyle" >
+        <item name="android:textColor">#fff000</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+
+    <style name="Mystyle2" >
+        <item name="android:textColor">#589468</item>
+        <item name="android:textSize">50sp</item>
+    </style>
+
+</resources>
